@@ -1,2 +1,3 @@
 # Assembly
-https://www.google.com/url?sa=i&url=http%3A%2F%2Fcodmeda.com%2Fvisual-nedir%2F&psig=AOvVaw0etYw7HqXFRauvYVirSXLv&ust=1645389595629000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMDZjYXQjPYCFQAAAAAdAAAAABAK
+
+![visuall](https://user-images.githubusercontent.com/87760380/154818407-6c003b3c-c6de-4ece-9f4d-d33238af0421.png)
